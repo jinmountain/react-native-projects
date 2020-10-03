@@ -1,4 +1,4 @@
-src/api/*
+api/*
 
 node_modules/**/*
 .expo/*
