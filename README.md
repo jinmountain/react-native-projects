@@ -3,9 +3,7 @@
 ## Project Names and Concepts
 Name                           | Link | Thoughts 
 -------------------------------|------|----------
- Restaurant Search App         |
- [Note](https://github.com/jinmountain/react-native-projects/tree/main/food)|
- * How to use useState and useEffect
+ Restaurant Search App         |[Note](https://github.com/jinmountain/react-native-projects/tree/main/food)|* How to use useState and useEffect
  * How to use API and axios to fetch data
  * How to set up a hook to get data from API
  * Simple error handling using try and error
