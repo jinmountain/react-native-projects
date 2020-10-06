@@ -10,14 +10,14 @@
 			<th align="center">
 				Link
 			</th>
-			<th align="right">Description</th>
+			<th align="center">Description</th>
 		</tr>
 		<tr>
 			<td>Restaurnat Search App</td>
 			<td align="center">
 				<a href="https://github.com/jinmountain/react-native-projects/tree/main/food">Link</a>
 			</td>
-			<td align="right">
+			<td align="left">
 				<ul>
 					<li>How to use useState and useEffect</li>
 					<li>How to use API and axios to fetch data</li>
