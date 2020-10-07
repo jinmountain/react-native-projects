@@ -26,6 +26,21 @@
 					<li>How to use withNavigation to navigate without using Navigation prop from a parent</li>
 					<li>How to use the component concept to list results</li>
 					<li>How to make a simple search bar</li>
+					<li>Understanding StyleSheet and JSX stuructures</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Blog App</td>
+			<td align="center">
+				<a href="">Link</a>
+			</td>
+			<td align="left">
+				<ul>
+					<li>How to CRUD (Create, Read, Update, Delete)</li>
+					<li>Introduction to Context</li>
+					<li>Concept of Children</li>
+					<li>How to use Context useReducer (can be useful for Post, Comment, Image functions)</li>
 				</ul>
 			</td>
 		</tr>
