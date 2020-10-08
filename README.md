@@ -40,7 +40,7 @@
 					<li>How to CRUD (Create, Read, Update, Delete)</li>
 					<li>Introduction to Context</li>
 					<li>Concept of Children</li>
-					<li>How to use Context useReducer (can be useful for Post, Comment, Image functions)</li>
+					<li>How to use Context and useReducer (can be useful for Post, Comment, Image functions)</li>
 				</ul>
 			</td>
 		</tr>
