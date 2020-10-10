@@ -42,6 +42,8 @@
 					<li>Concept of Children</li>
 					<li>How to use Context and useReducer (can be useful for Post, Comment, Image functions)</li>
 					<li>Delete, Show, Create, Edit</li>
+					<li>Data API Sync using ngrok and json</li>
+					<li>Get, Post, Put, Delete</li>
 				</ul>
 			</td>
 		</tr>
