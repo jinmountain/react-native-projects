@@ -47,5 +47,18 @@
 				</ul>
 			</td>
 		</tr>
+		<tr>
+			<td>Tracker App</td>
+			<td align="center">
+				<a href="">Link</a>
+			</td>
+			<td align="left">
+				<ul>
+					<li>Express and MongoDB</li>
+					<li>User account creation and verification using Express API, MongoDB, verification through JWT</li>
+					<li>How to make schema using Mongoose</li>
+				</ul>
+			</td>
+		</tr>
 	</tbody>
 </table>
