@@ -54,9 +54,14 @@
 			</td>
 			<td align="left">
 				<ul>
+					<li>Section 14</li>
 					<li>Express and MongoDB</li>
 					<li>User account creation and verification using Express API, MongoDB, verification through JWT</li>
 					<li>How to make schema using Mongoose</li>
+					<li>How to work with Postman</li>
+					<li>Error Handling</li>
+					<li>Check out this website https://jwt.io/#debugger-io for JWT</li>
+					<li>password hashing and salting with bcrypt</li> 
 				</ul>
 			</td>
 		</tr>
