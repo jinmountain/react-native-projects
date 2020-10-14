@@ -57,7 +57,7 @@
 					<li>=== Tracker App Server ===</li>
 					<li>Section 14</li>
 					<li>Express and MongoDB</li>
-					<li>User account creation and verification using Express API, MongoDB, verification through JWT</li>
+					<li>User account creation and verification using Express API, MongoDB, verification through JWT (https://jwt.io/#debugger-io)</li>
 					<li>How to make schema using Mongoose</li>
 					<li>How to work with Postman</li>
 					<li>Error Handling</li>
@@ -65,7 +65,7 @@
 					<li>password hashing and salting with bcrypt</li> 
 					<li>=== Tracker App React Part ===</li> 
 					<li>Section screens into Switch Navigator, Bottom Tab Navigator, or Stack Navigator </li> 
-					<li>Styling with react-native-elements</li>
+					<li>Styling with react-native-elements (https://reactnativeelements.com/)</li>
 					<li>Using API from server with ngrok</li>
 				</ul>
 			</td>
