@@ -54,6 +54,7 @@
 			</td>
 			<td align="left">
 				<ul>
+					<li>=== Tracker App Server ===</li>
 					<li>Section 14</li>
 					<li>Express and MongoDB</li>
 					<li>User account creation and verification using Express API, MongoDB, verification through JWT</li>
@@ -62,6 +63,10 @@
 					<li>Error Handling</li>
 					<li>Check out this website https://jwt.io/#debugger-io for JWT</li>
 					<li>password hashing and salting with bcrypt</li> 
+					<li>=== Tracker App React Part ===</li> 
+					<li>Section screens into Switch Navigator, Bottom Tab Navigator, or Stack Navigator </li> 
+					<li>Styling with react-native-elements</li>
+					<li>Using API from server with ngrok</li>
 				</ul>
 			</td>
 		</tr>
