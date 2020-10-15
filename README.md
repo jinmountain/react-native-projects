@@ -67,6 +67,7 @@
 					<li>Section screens into Switch Navigator, Bottom Tab Navigator, or Stack Navigator </li> 
 					<li>Styling with react-native-elements (https://reactnativeelements.com/)</li>
 					<li>Using API from server with ngrok</li>
+					<li>AsyncStorage to remember JWT</li>
 				</ul>
 			</td>
 		</tr>
