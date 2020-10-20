@@ -68,6 +68,9 @@
 					<li>Styling with react-native-elements (https://reactnativeelements.com/)</li>
 					<li>Using API from server with ngrok</li>
 					<li>AsyncStorage to remember JWT</li>
+					<li>How to use a loading screen</li>
+					<li>useEffect bug that doesn't follow with changed states and useCallback to solve it</li>
+					<li>useCallback returns the same version of callback if it is unchanged and the new version of callback if it is changed so the duplicates of callback and memory crash doesn't happen.</li>
 				</ul>
 			</td>
 		</tr>
